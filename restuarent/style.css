@@ -15,33 +15,18 @@ p{
     font-size:15px;
     position:relative;
 }
+.row{
+  margin-left:20px;
+  margin-right:20px;
+  margin-top:20px;
+}
 .section{
     background-color:darkgray;
-    border: 2px solid black;
     margin-top:20px;
     margin-right: 20px;
     padding: 3px;
     text-align: justify;
     position: relative;
-}
-
-span{
-    font-size: 20px;
-    width:150px;
-    border: 1px solid black;
-    font-weight: bold;
-    text-align: center;
-    float:right;  top :0; right: 0; margin: 0;
-    position: absolute;
-}
-#span1 {
-    background-color:pink;
-}
-#span2{
-  background-color:rgb(185, 97, 97);
-}
-#span3{
-  background-color:rgb(238, 204, 111);
 }
 
 .row{
